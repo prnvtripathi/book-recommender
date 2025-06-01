@@ -1,0 +1,14 @@
+
+# Environment variables
+.env
+.env.*
+
+# Venv
+.venv/
+
+# Data and books
+tagged_description.txt
+books_cleaned.csv
+
+# Pycharm
+.idea/
