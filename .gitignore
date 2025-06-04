@@ -8,7 +8,7 @@
 
 # Data and books
 tagged_description.txt
-books_cleaned.csv
+*.csv
 
 # Pycharm
 .idea/
